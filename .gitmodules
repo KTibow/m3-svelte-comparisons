@@ -1,3 +1,6 @@
 [submodule "m3-solid-vite-1/m3-solid"]
 	path = m3-solid-vite-1/m3-solid
 	url = https://github.com/PalmDevs/m3-solid.git
+[submodule "m3-solid-vite-2/m3-solid"]
+	path = m3-solid-vite-2/m3-solid
+	url = https://github.com/PalmDevs/m3-solid.git
